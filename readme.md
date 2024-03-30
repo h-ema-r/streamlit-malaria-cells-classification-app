@@ -1,4 +1,4 @@
-# Malaria Detection Streamlit App
+## Malaria Detection Streamlit App
 
 ## Problem Statement:
 The detection of malaria-infected cells in microscopic images is a critical task in healthcare, as it aids in the timely diagnosis and treatment of malaria. However, manual examination of these images is labor-intensive and prone to errors. Therefore, there is a need for automated systems that can accurately classify malaria-infected cells from uninfected ones.
