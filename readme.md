@@ -72,4 +72,5 @@ Below are the videos demonstrating the Malaria Cell Classification Streamlit App
 
 ![Video 2:](malaria-cell-classification-streamlit-app2.mp4
 )
+<br>
 ![Demo](https://github.com/h-ema-r/streamlit-malaria-cells-classification-app/blob/main/demo.png)
