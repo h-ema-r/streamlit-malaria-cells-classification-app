@@ -27,8 +27,8 @@ This file contains all the dependencies required to run the application.
 ```bash
 model.save('malaria-detection-model.h5')
 ```
-## Saved CNN model for malaria detection can be found at 
-[saved-model](https://drive.google.com/drive/folders/1kwmNOUoUBB0vIaKqpVkqwDYMofQhsvCd?usp=sharing)
+**Saved CNN model for malaria detection can be found at 
+[saved-model](https://drive.google.com/drive/folders/1kwmNOUoUBB0vIaKqpVkqwDYMofQhsvCd?usp=sharing)**
 
 **app.py:**
 - This file contains code for a Streamlit app.<br>
