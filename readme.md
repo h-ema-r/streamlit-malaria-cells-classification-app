@@ -11,6 +11,8 @@ Our goal is to develop a robust deep learning model capable of accurately detect
 - dataset folder named = cell_images  which contains train and test dataset
 - notebook = malaria-detection.ipynb
 - and saved model = **[saved-model](https://drive.google.com/drive/folders/1kwmNOUoUBB0vIaKqpVkqwDYMofQhsvCd?usp=sharing)**
+  
+**size of dataset and saved model is too large to upload to github.**
 
 ## Data source 
 The dataset used for training the model is available at [Data source](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
@@ -22,8 +24,6 @@ same 2 classes for validation. Here are further details:
 - Training Dataset: Contains 27,294 images. 
 - Validation Dataset: Contains 264 images. 
 - Classes: The dataset is divided into 2 classes: infected and uninfected cells.
-
-**size of dataset and saved model is too large to upload to github.**
 
 ## Files:
 **requirements.txt:**
