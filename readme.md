@@ -1,4 +1,4 @@
-## Malaria Detection Streamlit App
+## Malaria Cell Classification Streamlit App
 
 ## Problem Statement:
 The detection of malaria-infected cells in microscopic images is a critical task in healthcare, as it aids in the timely diagnosis and treatment of malaria. However, manual examination of these images is labor-intensive and prone to errors. Therefore, there is a need for automated systems that can accurately classify malaria-infected cells from uninfected ones.
@@ -27,7 +27,7 @@ This file contains all the dependencies required to run the application.
 ```bash
 model.save('malaria-detection-model.h5')
 ```
-**Saved CNN model for malaria detection can be found at 
+**Saved CNN model for malaria call classification can be found at 
 [saved-model](https://drive.google.com/drive/folders/1kwmNOUoUBB0vIaKqpVkqwDYMofQhsvCd?usp=sharing)**
 
 **app.py:**
@@ -61,8 +61,9 @@ streamlit run app.py
 
 Below are the videos demonstrating the Malaria Detection Streamlit App:
 
-![Video 1:](https://github.com/h-ema-r/streamlit-malaria-detection-app/blob/main/malaria-cell-classification-app.mp4)
+![Video 1:](malaria-cell-classification-app.mp4)
 
 <br>
 
-![Video 2:](malaria-detection-streamlit-app2.mp4)
+![Video 2:](malaria-cell-classification-streamlit-app2.mp4
+)
