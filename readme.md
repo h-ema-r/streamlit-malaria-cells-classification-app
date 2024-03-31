@@ -9,6 +9,8 @@ Our goal is to develop a robust deep learning model capable of accurately detect
 ## Data source 
 The dataset used for training the model is available at [Data source](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
+## Saved CNN model for malaria detection at [saved-model](https://drive.google.com/drive/folders/1kwmNOUoUBB0vIaKqpVkqwDYMofQhsvCd?usp=sharing)
+
 ## Files:
 **requirements.txt:**
 This file contains all the dependencies required to run the application.
