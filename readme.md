@@ -61,7 +61,7 @@ streamlit run app.py
 
 Below are the videos demonstrating the Malaria Detection Streamlit App:
 
-![Video 1:](malaria-detection-streamlit-app1.mp4)
+![Video 1:](https://github.com/h-ema-r/streamlit-malaria-detection-app/blob/main/malaria-cell-classification-app.mp4)
 
 <br>
 
